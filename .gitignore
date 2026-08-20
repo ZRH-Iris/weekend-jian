@@ -1,7 +1,2 @@
-# Runtime data and local verification artifacts
-data/
-__pycache__/
-*.pyc
-
-# Local rollback copy, not part of the source product
-index.before-editorial-rebuild.html
+.DS_Store
+*.log
